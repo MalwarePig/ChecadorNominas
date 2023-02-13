@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\192.168.2.191\Archivos Compartidos Servidor\SOPORTE\GemakNominas\|\\192.168.2.191\Archivos Compartidos Servidor\SOPORTE\GemakPanel1280\GemakNominas\|\\192.168.2.191\Archivos Compartidos Servidor\SOPORTE\GemakPanel1280\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\192.168.2.191\Archivos Compartidos Servidor\SOPORTE\GemakPanel1280\GemakNominas\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

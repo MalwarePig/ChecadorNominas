@@ -1,0 +1,70 @@
+C:\Users\Sergio\source\repos\Nominas\Nominas\bin\Debug\Nominas.exe.config
+C:\Users\Sergio\source\repos\Nominas\Nominas\bin\Debug\Nominas.exe
+C:\Users\Sergio\source\repos\Nominas\Nominas\bin\Debug\Nominas.pdb
+C:\Users\Sergio\source\repos\Nominas\Nominas\bin\Debug\MaterialSkin.dll
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.csprojAssemblyReference.cache
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.Checador.resources
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.Properties.Resources.resources
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.CopyComplete
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.exe
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.pdb
+C:\Users\Sergio\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.ResolveComReference.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\bin\Debug\Nominas.exe.config
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\bin\Debug\Nominas.exe
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\bin\Debug\Nominas.pdb
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\bin\Debug\MaterialSkin.dll
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.csproj.ResolveComReference.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.Checador.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.Properties.Resources.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.csproj.GenerateResource.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.csproj.CopyComplete
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.exe
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.pdb
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Nominas\Nominas\obj\Debug\Nominas.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csproj.ResolveComReference.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.ChecadorAdministrativo.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Checador.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Form1.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Menú.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Properties.Resources.resources
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csproj.GenerateResource.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Main\Checador.mdb
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.exe.config
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.exe.manifest
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.application
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.exe
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.pdb
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\MaterialSkin.dll
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.TrustInfo.xml
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.exe.manifest
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.application
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csproj.CopyComplete
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.exe
+C:\Users\Sergio\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.pdb
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Main\Checador.mdb
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.exe.config
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.exe.manifest
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.application
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.exe
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\Nominas.pdb
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\bin\Debug\MaterialSkin.dll
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csprojAssemblyReference.cache
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.ChecadorAdministrativo.resources
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Checador.resources
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Form1.resources
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Menú.resources
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.Properties.Resources.resources
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csproj.GenerateResource.cache
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.TrustInfo.xml
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.exe.manifest
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.application
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.csproj.CopyComplete
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.exe
+C:\Users\Soporte\Documents\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.pdb
+D:\Respaldo\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.exe
+D:\Respaldo\Proyectos web\Proyectos C#\Proyecto - Nominas\Nominas\obj\Debug\Nominas.pdb
