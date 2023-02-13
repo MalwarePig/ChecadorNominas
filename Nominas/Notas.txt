@@ -1,0 +1,5 @@
+﻿******************************************************************************* - PENDIENTES - ************************************************************************************************************
+
+SI TURNO TARDE TIENE TIEMPO EXTRAS, LA ENTRADA ES LA SEGUNDA CHECADA Y NO ES CORREGIDA A LA HORA DE LA ENTRADA
+
+-el origen de datos de acces para base de datos con contraseña kratos
